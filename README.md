@@ -49,9 +49,6 @@ Improve your circuitry with this intro to Analog Circuit Design -- with focus on
 * [ ] instrumental amplification (pricey, lower bandwidth but very powerful for medical applications)
 * [ ] High power op amps
 * [ ] Analog Comparators -- do the job.
-
-
-
 * [ ] create md-doc with sample diagrams of the most important (IMO) op amp configurations
 * [ ] create md-doc with description of op-amp limitations/"non-idealities" and what applications they are important concerns
 * [ ] create md-doc to create a set of projects each common topology 
