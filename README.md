@@ -27,20 +27,16 @@ Improve your circuitry with this intro to Analog Circuit Design -- with focus on
 * [ ] Music: fuzz
 * [ ] Music: phasor
 * [ ] Music: make-an-instrument
-
 * [ ] Science: pH Sensor
 * [ ] Science: Soil Moisture Sensor
 * [ ] Science: Light Sensor
 * [ ] Science: Strain Gauge Sensor
 * [ ] Science: Thermopile sensor
 * [ ] Science: Oxygen Sensor
-
 * [ ] Cool: Alpha-Wave-Detector
-
 * [ ] Robotics: Force-Feedback-sensor
 * [ ] Robotics: Frequency sensor (whistle-bot)
 * [ ] Robotics: Opto-coupling
-
 * [ ] Embedded: single-supply RR op Amps
 
 ### Cool Ic's
