@@ -1,3 +1,8 @@
+### TODO
+
+* [ ] have an op amp suggestion for each project
+
+
 
 | part number | uses | details | datasheet | free-sample form-factors |
 | :--- | :--- | :--- | :--- | :--- |
